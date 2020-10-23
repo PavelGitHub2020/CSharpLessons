@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Abstract_Geometric_Figure.AbstractGeometricFigure">
+    <Position X="11.75" Y="2" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEAAE=</HashCode>
+      <FileName>AbstractGeometricFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Geometric_Figure.Circle">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Geometric_Figure.CompositeFigure">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAACABQAIQAAEAAAAAAAAAAAAECABAAAQAMAAA=</HashCode>
+      <FileName>CompositeFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Geometric_Figure.Ellipse">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Ellipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Geometric_Figure.Parallelogram">
+    <Position X="11.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAQAQAAAIAACAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Parallelogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Geometric_Figure.Rectangle">
+    <Position X="13.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAQAQAAA=</HashCode>
+      <FileName>Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Geometric_Figure.Rhombus">
+    <Position X="15.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAQAAIAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Rhombus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Geometric_Figure.Square">
+    <Position X="18" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Geometric_Figure.Trapezoid">
+    <Position X="20.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAgAEAQAQAAAAAACAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Trapezoid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Geometric_Figure.Triangle">
+    <Position X="22.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAQQAQAAA=</HashCode>
+      <FileName>Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Abstract_Geometric_Figure.EntryPoint">
+    <Position X="22.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>EntryPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="22.5" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
